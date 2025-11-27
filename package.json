@@ -21,13 +21,13 @@
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
-    "eslint": "^8.57.1",  // Update to a newer ESLint version, like ^8.40.0 or the latest
+    "eslint": "^8.57.1",
     "eslint-config-next": "15.2.3",
     "postcss": "^8",
     "tailwindcss": "^3.4.1",
-    "rimraf": "^4.0.0",  // Updated version of rimraf
-    "glob": "^9.0.0",    // Updated version of glob
-    "serialize-error-cjs": "^0.2.0",  // Updated version for serialize-error
-    "q": "^2.0.0"  // If you are still using Q for promises, update or remove it.
+    "rimraf": "^4.0.0",
+    "glob": "^9.0.0",
+    "serialize-error-cjs": "^0.2.0",
+    "q": "^2.0.0"
   }
   }
