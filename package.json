@@ -31,6 +31,8 @@
     "rimraf": "^5.0.9",
     "inflight": "npm:lru-cache@latest",
     "@humanwhocodes/object-schema": "@eslint/object-schema@latest",
-    "@humanwhocodes/config-array": "@eslint/config-array@latest"
+    "@humanwhocodes/config-array": "@eslint/config-array@latest",
+    "serialize-error-cjs": "0.2.0",
+    "q": "npm:es6-promise@latest"
   }
 }
